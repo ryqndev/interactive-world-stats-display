@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/interactive-world-stats-display/static/css/main.2dd085a9.chunk.css",
+    "main.js": "/interactive-world-stats-display/static/js/main.4df71591.chunk.js",
+    "main.js.map": "/interactive-world-stats-display/static/js/main.4df71591.chunk.js.map",
+    "runtime~main.js": "/interactive-world-stats-display/static/js/runtime~main.062ce2ba.js",
+    "runtime~main.js.map": "/interactive-world-stats-display/static/js/runtime~main.062ce2ba.js.map",
+    "static/js/2.8a5c37ab.chunk.js": "/interactive-world-stats-display/static/js/2.8a5c37ab.chunk.js",
+    "static/js/2.8a5c37ab.chunk.js.map": "/interactive-world-stats-display/static/js/2.8a5c37ab.chunk.js.map",
+    "index.html": "/interactive-world-stats-display/index.html",
+    "precache-manifest.f4a406431d6cfd94e3610193dbe5ae1a.js": "/interactive-world-stats-display/precache-manifest.f4a406431d6cfd94e3610193dbe5ae1a.js",
+    "service-worker.js": "/interactive-world-stats-display/service-worker.js",
+    "static/css/main.2dd085a9.chunk.css.map": "/interactive-world-stats-display/static/css/main.2dd085a9.chunk.css.map",
+    "static/media/icon3.png": "/interactive-world-stats-display/static/media/icon3.d5f1a89b.png"
+  }
+}
